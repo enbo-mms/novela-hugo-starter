@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/first-post.md
 - content/post/test.md
